@@ -1,4 +1,4 @@
-# Rotation Medical
+# MedicalRotations
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rotation Medical is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- http://rotationmedical.com/
+MedicalRotations provides a premier clinical experience solution connecting medical students, schools, and preceptors with top U.S. clinical facilities. The platform offers tailored rotation opportunities, streamlined sign‑up processes, and support for educational institutions to expand training options, ensuring quality hands‑on experiences for future healthcare professionals.
+
+**Areas:** Healthcare · Education · Clinical Rotations · Medical Students · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.medicalrotations.com/)
+- [Terms of service](https://www.medicalrotations.com/terms)
+- [Privacy policy](https://www.medicalrotations.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/rotation-medical/](https://apis.io/providers/rotation-medical/).
